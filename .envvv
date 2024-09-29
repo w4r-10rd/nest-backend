@@ -1,5 +1,0 @@
-JWT_SECRET=hello_world
-DB_HOST=localhost
-DB_USER=admin
-DB_PASSWORD=Welcome@4
-DB_NAME=mydatabase
